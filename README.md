@@ -153,4 +153,4 @@ Untuk bantuan lebih lanjut, silakan hubungi developer atau buat issue di reposit
 
 **Versi:** 1.0.0  
 **Update Terakhir:** 2024  
-**Compatible dengan:** PHP 7.4+, MySQL 5.7+ 
+**Compatible dengan:** PHP 7.4+, MySQL 5.7+
